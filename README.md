@@ -13,6 +13,7 @@
 | Day01 ( Class01 ) | [React Component]( class01Read.md) | 
 | Day02 ( Class02 ) | [Props VS Component]( class02Read.md) | 
 | Day03 ( Class03 ) | [Map & Speed & Functions Between Components]( class03Read.md) | 
+| Day04 ( Class04 ) | [React Forms & Ternary operator]( class04Read.md) | 
 
 ## Code 401 - Advanced Software Development
 
