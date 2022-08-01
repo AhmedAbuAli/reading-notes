@@ -16,6 +16,7 @@
 | Day04 ( Class04 ) | [React Forms & Ternary operator]( class04Read.md) | 
 | Day05 ( Class05 ) | [When to use State & Higher-Order Functions]( class05Read.md) | 
 | Day06 ( Class06 ) | [Node.js & Pair Programming ]( class06Read.md) | 
+| Day07 ( Class07 ) | [RoyFolding & API's ]( class07Read.md) | 
 
 ## Code 401 - Advanced Software Development
 
